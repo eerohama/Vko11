@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vko10</string>
+    <string name="open">Avaa</string>
+    <string name="close">Sulje</string>
+    <string name="writeable">Kirjoitettava</string>
+    <string name="readable">Luettava</string>
+    <string name="settings">Asetukset</string>
+    <string name="settings_menu">Asetukset valikko</string>
+    <string name="text_size">Tekstin koko</string>
+    <string name="text_colour">Tekstin väri</string>
+    <string name="background_colour">Taustaväri</string>
+    <string name="textbox_height">Tekstiruudun korkeus</string>
+    <string name="language">Kieli</string>
+    <string name="display_text">Syötä teksti</string>
+    <string name="apply_changes">Tallenna muutokset</string>
+    <string name="defaultt">Oletus</string>
+    <string name="black">Musta</string>
+    <string name="white">Valkoinen</string>
+    <string name="blue">Sininen</string>
+    <string name="red">Punainen</string>
+    <string name="yellow">Keltainen</string>
+    <string name="green">Vihreä</string>
+    <string name="magenta">Violetti</string>
+    <string name="disable_editing">Estä muokkaus</string>
+    <string name="allow_editing">Salli muokkaus</string>
+</resources>
